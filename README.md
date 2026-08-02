@@ -25,7 +25,7 @@ The selected model is then rebuilt and used to predict handwritten digits from b
 
 ---
 
-# 🎯 Objectives
+## 🎯 Objectives
 
 * Develop an Artificial Neural Network (ANN) for handwritten digit recognition.
 * Perform exploratory analysis of the MNIST dataset.
@@ -38,7 +38,7 @@ The selected model is then rebuilt and used to predict handwritten digits from b
 
 ---
 
-# 📂 Dataset
+## 📂 Dataset
 
 **Dataset:** MNIST Handwritten Digit Dataset
 
@@ -58,7 +58,7 @@ Each image is converted into a **784-dimensional feature vector** before being u
 
 ---
 
-# 🔍 Exploratory Data Analysis
+## 🔍 Exploratory Data Analysis
 
 The notebook performs the following analyses:
 
@@ -73,7 +73,7 @@ The analysis confirms that the dataset contains balanced handwritten digit class
 
 ---
 
-# 🧹 Data Preprocessing
+## 🧹 Data Preprocessing
 
 The following preprocessing steps are performed before training:
 
@@ -85,7 +85,7 @@ The following preprocessing steps are performed before training:
 
 ---
 
-# 🧠 Model Development
+## 🧠 Model Development
 
 The project progressively develops multiple ANN models to study the effect of different hyperparameters.
 
@@ -254,7 +254,7 @@ Observation:
 
 ---
 
-# 📊 Hyperparameter Analysis
+## 📊 Hyperparameter Analysis
 
 The project experimentally studies the influence of:
 
@@ -269,7 +269,7 @@ instead of selecting them arbitrarily.
 
 ---
 
-# 🏆 Best Performing Model
+## 🏆 Best Performing Model
 
 According to the validation accuracy, **Model 10** is selected as the final model.
 
@@ -289,7 +289,7 @@ This configuration provides the best balance between learning capability and gen
 
 ---
 
-# 🔢 Prediction
+## 🔢 Prediction
 
 The final model is used to predict:
 
@@ -307,7 +307,7 @@ to verify prediction performance.
 
 ---
 
-# 📈 Key Findings
+## 📈 Key Findings
 
 The experimental analysis leads to the following observations:
 
@@ -322,7 +322,7 @@ The experimental analysis leads to the following observations:
 
 ---
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 * Python
 * TensorFlow
@@ -336,7 +336,7 @@ The experimental analysis leads to the following observations:
 
 ---
 
-# 📌 Conclusion
+## 📌 Conclusion
 
 This project presents a systematic study of **Artificial Neural Networks for handwritten digit recognition** rather than focusing on a single model. Through a series of controlled experiments, different neural network architectures and hyperparameters are compared to understand their impact on model performance.
 
